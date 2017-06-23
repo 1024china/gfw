@@ -1,4 +1,7 @@
 # 客户端
+#####  大杀器
+> 官网 https://gfw.press/
+> 使用帮助 https://gfw.press/blog/?p=2047
 #####  Shadowsocks 客户端及 APP 下载
 > Windows 电脑客户端下载
 - [Shadowsocks 国内 CDN 高速下载 ](https://dn-shimo-attachment.qbox.me/b0Um2Js1mBoqeMV4%2FSYJBKZRgt0oRGs7K?attname=SS-Win.zip "Shadowsocks 国内 CDN 高速下载 ")
