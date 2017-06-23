@@ -12,7 +12,7 @@
 - [ShadowsocksX-NG-SSR 国内备份下载](https://www.babel.cc/share.do?s=1540367796358713 "ShadowsocksX-NG-SSR 国内备份下载")
 
 ------------
-##### 免费服务器配置1 ([lai.yuweining.cn]提供)
+##### 免费服务器配置1          ([lai.yuweining.cn](http://yuweining.cn/leifeng/ "lai.yuweining.cn")提供
 | 服务器/ip地址  | ss1.ubox.co<br>ss6.ubox.co   |
 | :------------: | :------------: |
 | 端口   | 8388  |
@@ -20,7 +20,7 @@
 |加密方式   | aes-256-cfb  |
 
 
-#####   免费服务器配置2 ([lai.yuweining.cn](http://yuweining.cn/leifeng/ "lai.yuweining.cn") 提供 不限流量 长期可用 兼容SS 与 SSR)
+#####   免费服务器配置2       ([lai.yuweining.cn](http://yuweining.cn/leifeng/ "lai.yuweining.cn") 提供 不限流量 长期可用 兼容SS 与 SSR)
 |         | |                             |
 | ------------ | --- | ------------------------------- |
 | 服务器/ip地址 |  leifeng1.yuweining.cn<br>leifeng2.yuweining.cn<br>leifeng3.yuweining.cn<br>leifeng4.yuweining.cn
@@ -31,7 +31,8 @@
 | 混淆|tls1.2_ticket_auth|
 
 ------------
-
+##### 其他免费账号
+https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7
 
 # 技术科普
 
