@@ -11,7 +11,7 @@
 - [ShadowsocksX-NG-SSR 国内 CDN 高速下载](https://dn-shimo-attachment.qbox.me/b0Um2Js1mBoqeMV4%2Flaw3fwzlSi8JliNq?attname=ShadowsocksX-NG-R8.dmg "ShadowsocksX-NG-SSR 国内 CDN 高速下载")
 - [ShadowsocksX-NG-SSR 国内备份下载](https://www.babel.cc/share.do?s=1540367796358713 "ShadowsocksX-NG-SSR 国内备份下载")
 
-
+------------
 ##### 免费服务器配置1 ([lai.yuweining.cn]提供)
 | 服务器/ip地址  | ss1.ubox.co<br>ss6.ubox.co   |
 | :------------: | :------------: |
@@ -30,6 +30,7 @@
 | 协议| auth_sha1_v4 |
 | 混淆|tls1.2_ticket_auth|
 
+------------
 
 
 # 技术科普
