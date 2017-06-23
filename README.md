@@ -17,7 +17,7 @@
  [SsrConnect使用教程](https://lai.yuweining.cn/archives/246/ "使用教程")
 - [ AnyFlow Lite下载](https://itunes.apple.com/cn/app/anyflow-lite/id1195285629?mt=8 " AnyFlow Lite")
 [ AnyFlow Lite使用教程](https://lai.yuweining.cn/archives/788/ "使用教程")
-
+- [-IOS 下的影梭 Shadowsocks APP 汇总](https://lai.yuweining.cn/archives/159/ "-IOS 下的影梭 Shadowsocks APP 汇总")
 ------------
 # 配置
 ##### 免费服务器配置1           [lai.yuweining.cn](http://yuweining.cn/leifeng/ "lai.yuweining.cn")提供
