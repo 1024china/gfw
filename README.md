@@ -58,7 +58,33 @@ https://wsgzao.github.io/post/fq/
 
 http://www.asiaserverhost.com/
 
+Shadowsocks安装一键脚本
 
+wget --no-check-certificate -O shadowsocks-all.sh https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks-all.sh
+chmod +x shadowsocks-all.sh
+./shadowsocks-all.sh 2>&1 | tee shadowsocks-all.log
+
+编辑配置文件 用VI编辑器 方法请谷歌
+vi /etc/shadowsocks-python/config.json
+
+Shadowsocks常用命令
+
+/etc/init.d/shadowsocks-python start | stop | restart | status
+
+Shadowsocks重启命令
+
+/etc/init.d/shadowsocks-python restart
+
+检测连接数 需要安装netstat请谷歌
+netstat -an | grep 17863 | grep ESTABLISHED | wc -l
+netstat -an | grep 52113 | grep ESTABLISHED | wc -l
+
+BBR安装一键脚本，仅限搬瓦工Openvz架构，记住是Openvz架构，不是Kvm架构，就是那个2000GB的那个才适用
+其他请谷歌
+
+wget https://raw.githubusercontent.com/kuoruan/shell-scripts/master/ovz-bbr/ovz-bbr-installer.sh
+chmod +x ovz-bbr-installer.sh
+./ovz-bbr-installer.sh
 
 
  
