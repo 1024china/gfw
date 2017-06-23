@@ -13,9 +13,10 @@
 
 >ios 客户端下载
 -  [SsrConnect下载](https://itunes.apple.com/nl/app/shadowconnect/id1161221960?mt=8&uo=4&at=1010lpjB&ct=tas "SsrConnect")     
- [使用教程](https://lai.yuweining.cn/archives/246/ "使用教程")
+ [SsrConnect使用教程](https://lai.yuweining.cn/archives/246/ "使用教程")
 - [ AnyFlow Lite下载](https://itunes.apple.com/cn/app/anyflow-lite/id1195285629?mt=8 " AnyFlow Lite")
-[使用教程](https://lai.yuweining.cn/archives/788/ "使用教程")
+[ AnyFlow Lite使用教程](https://lai.yuweining.cn/archives/788/ "使用教程")
+
 ------------
 ##### 免费服务器配置1           [lai.yuweining.cn](http://yuweining.cn/leifeng/ "lai.yuweining.cn")提供
 | 服务器/ip地址  | ss1.ubox.co<br>ss6.ubox.co   |
