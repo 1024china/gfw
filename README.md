@@ -1,5 +1,5 @@
 # 客户端
-#####  大杀器
+#####  大杀器,支持多客户端(需要先翻, 才能正常访问大杀器网址)
 > 官网 https://gfw.press/
 > 使用帮助 https://gfw.press/blog/?p=2047
 #####  Shadowsocks 客户端及 APP 下载
