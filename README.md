@@ -12,7 +12,7 @@
 - [ShadowsocksX-NG-SSR 国内备份下载](https://www.babel.cc/share.do?s=1540367796358713 "ShadowsocksX-NG-SSR 国内备份下载")
 
 ------------
-##### 免费服务器配置1          ([lai.yuweining.cn](http://yuweining.cn/leifeng/ "lai.yuweining.cn")提供
+##### 免费服务器配置1           [lai.yuweining.cn](http://yuweining.cn/leifeng/ "lai.yuweining.cn")提供
 | 服务器/ip地址  | ss1.ubox.co<br>ss6.ubox.co   |
 | :------------: | :------------: |
 | 端口   | 8388  |
