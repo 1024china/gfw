@@ -1,4 +1,5 @@
-| 服务器/ip地址  | ss1.ubox.co<br>ss6.ubox.co   |
+##### 免费服务器配置1
+| 服务器/ip地址  | ss1.ubox.co<br>ss6.ubox.co   |
 | :------------: | :------------: |
 | 端口   | 8388  |
 | 密码  |  password |
