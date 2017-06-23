@@ -1,3 +1,4 @@
+# 客户端
 #####  Shadowsocks 客户端及 APP 下载
 > Windows 电脑客户端下载
 - [Shadowsocks 国内 CDN 高速下载 ](https://dn-shimo-attachment.qbox.me/b0Um2Js1mBoqeMV4%2FSYJBKZRgt0oRGs7K?attname=SS-Win.zip "Shadowsocks 国内 CDN 高速下载 ")
@@ -18,7 +19,8 @@
 [ AnyFlow Lite使用教程](https://lai.yuweining.cn/archives/788/ "使用教程")
 
 ------------
-##### 免费服务器配置1           [lai.yuweining.cn](http://yuweining.cn/leifeng/ "lai.yuweining.cn")提供
+# 配置
+##### 免费服务器配置1           [lai.yuweining.cn](http://yuweining.cn/leifeng/ "lai.yuweining.cn")提供
 | 服务器/ip地址  | ss1.ubox.co<br>ss6.ubox.co   |
 | :------------: | :------------: |
 | 端口   | 8388  |
@@ -40,6 +42,7 @@
 ##### 其他免费账号
 https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7
 
+------------
 # 技术科普
 
  ##### shadowsocks使用说明-手机版-电脑板-ISO版-安卓版
