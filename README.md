@@ -2,11 +2,14 @@
 > Windows 电脑客户端下载
 - [Shadowsocks 国内 CDN 高速下载 ](https://dn-shimo-attachment.qbox.me/b0Um2Js1mBoqeMV4%2FSYJBKZRgt0oRGs7K?attname=SS-Win.zip "Shadowsocks 国内 CDN 高速下载 ")
 [Shadowsocks 国内备份下载](https://www.babel.cc/share.do?s=7966045981310736 "Shadowsocks 国内备份下载")
+
 > 安卓客户端下载
 - [shadowsocks 影梭国内 CDN 高速下载](https://dn-shimo-attachment.qbox.me/b0Um2Js1mBoqeMV4%2FAVAAymgzYrglH5XB?attname=shadowsocks-nightly-4.1.8.apk "hadowsocks 影梭国内 CDN 高速下载")
 - [ 国内备份下载](https://www.babel.cc/share.do?s=7105933012929395 " 国内备份下载")
 
-
+> Mac 苹果客户端下载
+- [ShadowsocksX-NG-SSR 国内 CDN 高速下载](https://dn-shimo-attachment.qbox.me/b0Um2Js1mBoqeMV4%2Flaw3fwzlSi8JliNq?attname=ShadowsocksX-NG-R8.dmg "ShadowsocksX-NG-SSR 国内 CDN 高速下载")
+- [ShadowsocksX-NG-SSR 国内备份下载](https://www.babel.cc/share.do?s=1540367796358713 "ShadowsocksX-NG-SSR 国内备份下载")
 
 
 ##### 免费服务器配置1 ([lai.yuweining.cn]提供)
