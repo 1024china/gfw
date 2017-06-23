@@ -1,4 +1,14 @@
-##### 免费服务器配置1
+#####  Shadowsocks 客户端及 APP 下载
+> Windows 电脑客户端下载
+- [Shadowsocks 国内 CDN 高速下载 ](https://dn-shimo-attachment.qbox.me/b0Um2Js1mBoqeMV4%2FSYJBKZRgt0oRGs7K?attname=SS-Win.zip "Shadowsocks 国内 CDN 高速下载 ")
+[Shadowsocks 国内备份下载](https://www.babel.cc/share.do?s=7966045981310736 "Shadowsocks 国内备份下载")
+> 安卓客户端下载
+- [Shadowsocks 国内 CDN 高速下载 ](https://dn-shimo-attachment.qbox.me/b0Um2Js1mBoqeMV4%2FAVAAymgzYrglH5XB?attname=shadowsocks-nightly-4.1.8.apk "Shadowsocks 国内 CDN 高速下载 ")
+[Shadowsocks 国内备份下载](https://www.babel.cc/share.do?s=7105933012929395"Shadowsocks 国内备份下载")
+
+
+
+##### 免费服务器配置1 ([lai.yuweining.cn]提供)
 | 服务器/ip地址  | ss1.ubox.co<br>ss6.ubox.co   |
 | :------------: | :------------: |
 | 端口   | 8388  |
