@@ -42,7 +42,7 @@
 | 混淆|tls1.2_ticket_auth|
 
 ------------
-##### 其他免费账号
+# 其他免费ss账号
 https://shadowsocksr.ru/    <br>
 https://twitter.com/yuricloner <br>
 https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7  <br>
