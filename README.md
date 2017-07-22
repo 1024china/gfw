@@ -58,10 +58,6 @@ http://www.o0o0o.ml/?p=96
 #####  GFW翻墙小结
 https://wsgzao.github.io/post/fq/
 
-##### VPS
-
-http://www.asiaserverhost.com/
-
 ##### Shadowsocks安装一键脚本
 
 wget --no-check-certificate -O shadowsocks-all.sh https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks-all.sh
